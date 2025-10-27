@@ -16,7 +16,7 @@ This repository contains the official AnIML schema definitions:
 - **Sample Management**: Define and track samples throughout analytical workflows
 - **Experiment Steps**: Document complete experimental procedures and methodologies
 - **Results Storage**: Capture analytical results with full metadata and series data
-- **Data Integrity**: Built-in support for audit trails and regulatory compliance (21 CFR Part 11)
+- **Data Integrity**: Built-in support for audit trails and features commonly required for regulatory compliance
 
 ### Security & Compliance
 - **Audit Trails**: Track all changes made to AnIML documents with timestamps and user information
